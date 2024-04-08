@@ -7,11 +7,11 @@ Learn about how Bitcoin functions and how to track its transactions. Write and p
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- R&R: Research and reading, then organizing helpful information
+- Understanding Blockchain Fundamentals
+- Transaction analysis
+- Blockchain Investigation Skills
+- Develop a strong level of report writing
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
