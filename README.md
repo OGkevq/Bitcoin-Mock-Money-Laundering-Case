@@ -14,7 +14,7 @@ Learn about how Bitcoin functions and how to track its transactions. Write and p
 
 ### Tools Used
 
-- Furneaux, N. (2018). Investigating Cryptocurrencies. terrogum.com. Retrieved from https://terrorgum.com/tfox/books/investigatingcryptocurrencies.pdf   
+- Furneaux, N. (2018). Investigating Cryptocurrencies. Textbook  
 - Blockchain.info for blockchain analysis
 
 ## Deliverables
