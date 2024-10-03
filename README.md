@@ -18,7 +18,7 @@ Learn about how Bitcoin functions and how to track its transactions. Write and p
 - Blockchain.info for blockchain analysis
 
 ## Deliverables
-Research and organized notes are located here --> [Module Outline #3 (1).docx](https://github.com/OGkevq/Bitcoin-Mock-Money-Laundering-Case/files/14912822/Module.Outline.3.1.docx)
+Research and organized notes on Blockchain are located here --> [Module Outline #3 (1).docx](https://github.com/OGkevq/Bitcoin-Mock-Money-Laundering-Case/files/14912822/Module.Outline.3.1.docx)
 
 **Background context for the investigation:** 
 The investigation centers around an international money laundering case. As a student investigator, my role was to assist in tracking a specific transaction. The Task Force (represented by the professor) provided key evidence, including text messages extracted from a suspect's cell phone and a photograph of an envelope. My task involved crafting a detailed report that outlined the findings related to transactions between the suspects. This report was to be written clearly and concisely while also being able to explain blockchain transaction concepts in an easy-to-understand manner. *Note Upon completion of the class I no longer had access to the photgraphic pieces of evidence but the report can be found below.
